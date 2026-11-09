@@ -38,7 +38,7 @@
         "gn:id":2233987
     },
     "wof:country":"CM",
-    "wof:geomhash":"9645715b89f6e47d5e924ef355c5b274",
+    "wof:geomhash":"5dd17e76b1cc484b08b5d20164b50a93",
     "wof:hierarchy":[
         {
             "country_id":85632245,
@@ -61,5 +61,5 @@
     13.13333,
     7.0
 ],
-  "geometry": {"coordinates":[13.13333,7.0],"type":"Point"}
+  "geometry": {"coordinates":[13.13333,7],"type":"Point"}
 }

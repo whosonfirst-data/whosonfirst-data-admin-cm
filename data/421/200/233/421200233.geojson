@@ -99,7 +99,7 @@
     },
     "wof:country":"CM",
     "wof:created":1459010016,
-    "wof:geomhash":"76a0f1a03c1a1b45a964927fc2c03596",
+    "wof:geomhash":"88eb2168098d213fc7b78c216dc027fa",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -127,5 +127,5 @@
     10.0,
     6.01667
 ],
-  "geometry": {"coordinates":[10.0,6.01667],"type":"Point"}
+  "geometry": {"coordinates":[10,6.01667],"type":"Point"}
 }
